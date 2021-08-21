@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="app_title_1">ユークリッド互除法de</string>
+    <string name="app_title_2">最大公約数を求めよう</string>
+    <string name="num_a_label">数字①</string>
+    <string name="num_b_label">数字②</string>
+    <string name="num_a_form" />
+    <string name="num_b_form" />
+    <string name="calc_button">計算する</string>
+    <string name="calc_result">計算結果</string>
+    <string name="form_num_a">整数①を入力</string>
+    <string name="form_num_b">整数②を入力</string>
+</resources>
